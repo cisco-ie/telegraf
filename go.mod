@@ -32,6 +32,7 @@ require (
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
 	github.com/caio/go-tdigest v2.3.0+incompatible // indirect
 	github.com/cenkalti/backoff v2.0.0+incompatible // indirect
+	github.com/cisco-ie/netgonf v0.0.0-20200421160712-10a7ca737235
 	github.com/cisco-ie/nx-telemetry-proto v0.0.0-20190531143454-82441e232cf6
 	github.com/cockroachdb/apd v1.1.0 // indirect
 	github.com/containerd/containerd v1.4.1 // indirect
@@ -130,6 +131,7 @@ require (
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
 	github.com/yuin/gopher-lua v0.0.0-20180630135845-46796da1b0b4 // indirect
 	go.starlark.net v0.0.0-20200901195727-6e684ef5eeee
+	golang.org/x/crypto v0.0.0-20200204104054-c9f3fb736b72
 	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6 // indirect
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
 	golang.org/x/net v0.0.0-20200904194848-62affa334b73
